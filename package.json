@@ -1,0 +1,15 @@
+{
+  "name": "reqheadparser",
+  "version": "1.0.0",
+  "description": "Request Header Parser Service",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Amanpreet Hundal",
+  "license": "MIT",
+  "dependencies": {
+    "express": "^4.14.0",
+    "user-agent-parser": "^0.6.0"
+  }
+}
